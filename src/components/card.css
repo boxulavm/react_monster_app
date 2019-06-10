@@ -1,0 +1,9 @@
+.card {
+    width: 14rem;
+
+}
+
+
+.card:hover{
+    box-shadow: 3px 3px 3px 3px #212121;
+}
